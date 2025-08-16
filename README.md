@@ -1,4 +1,4 @@
-echo "# AI Content Curation Workflow
+# AI Content Curation Workflow
 
 An intelligent multi-agent system powered by Sourcegraph Cody AI for discovering, analyzing, and curating AI-related content from dev.to.
 
@@ -41,4 +41,4 @@ The workflow automatically:
 3. Generates optimized titles and descriptions
 4. Prepares content for publication
 
-Built with ❤️ and Sourcegraph Cody AI" > README.md
+Built with ❤️ and Sourcegraph Cody AI
